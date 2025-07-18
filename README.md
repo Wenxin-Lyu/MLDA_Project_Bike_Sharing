@@ -1,6 +1,6 @@
 # Project Participants
 
-The following team members contributed to this project (listed in alphabetical order by family name):
+The following team members contributed to this project:
 * **Vicente Andrés Muñoz Castro** – Matriculation No. 475027
 * **Christian Kuckelkorn** – Matriculation No. 397652
 * **Wenxin Lyu** – Matriculation No. 389480
