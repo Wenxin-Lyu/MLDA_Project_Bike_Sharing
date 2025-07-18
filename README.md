@@ -1,4 +1,12 @@
-# MLDA_Project_Bike_Sharing
+# Project Participants
+
+The following team members contributed to this project (listed in alphabetical order by family name):
+* **Vicente Andrés Muñoz Castro** – Matriculation No. 475027
+* **Christian Kuckelkorn** – Matriculation No. 397652
+* **Wenxin Lyu** – Matriculation No. 389480
+* **Mattia Marchesin** – Matriculation No. 475532
+* **Anna Németh** – Matriculation No. 475137
+
 
 
 # How to Use This Repository (Beginner Git/GitHub Guide)
